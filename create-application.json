@@ -1,0 +1,17 @@
+{
+    "Author": "kbigwheel",
+    "Description": "Serverless application that sends CloudWatch alarm notifications to Slack won an Amazon SNS trigger, especially from CloudWatch logs sends log body",
+    "HomePageUrl": "https://github.com/bigwheel/cloudwatch-logs-to-slack-python3",
+    "Labels": [
+        "CloudWatch",
+        "SNS",
+        "trigger",
+        "logs",
+        "alarm",
+        "slack"
+    ],
+    "Name": "cloudwatch-logs-to-slack-python3",
+    "SemanticVersion": "0.1.0",
+    "SourceCodeUrl": "https://github.com/bigwheel/cloudwatch-logs-to-slack-python3",
+    "SpdxLicenseId": "Apache-2.0"
+}
